@@ -8,6 +8,11 @@ DB_USERNAME
 DB_PASSWORD
 DATABASE
 
+A Default Hardcoded Username and Password are:
+
+Username: JDoe
+Password: password
+
 The Migrations Script randomly generates a 1002 users and 2 games with random names, birthdates/dates of death, etc.  New games can be added under the Add/Edit/Update Games page.
 
 In regards to Problem 1: 
